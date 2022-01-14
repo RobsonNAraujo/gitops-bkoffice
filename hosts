@@ -29,3 +29,6 @@ bksap0grc201 ansible_host=10.199.153.52 ansible_connection=ssh ansible_user=devi
 
 [others]
 bksap0grc201 ansible_host=10.199.153.52 ansible_connection=ssh ansible_user=devids ansible_ssh_pass=rxbkYdU.7@wds2M
+
+[bkbkoOapp101 SRV QAS BK-OFFICE]
+bkbkoOapp101 ansible_host=10.199.154.51 ansible_connection=ssh ansible_user=robson.nunes ansible_ssh_pass=AzPKD8mfxMCy2gK
